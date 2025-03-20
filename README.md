@@ -12,3 +12,5 @@
 9. mongoose: Thư viện ODM (Object Data Modeling) dùng với MongoDB, giúp tương tác và quản lý dữ liệu trong cơ sở dữ liệu dễ dàng hơn.
 10. node-cron: Cho phép lập lịch chạy các tác vụ tự động theo thời gian (cron jobs) trong Node.js.
 11. nodemailer: Hỗ trợ gửi email từ ứng dụng Node.js, tích hợp với nhiều dịch vụ email khác nhau.
+
+npm install react-router-dom react-spinners react-toastify lucide-react axios react-redux @reduxjs/toolkit chart.js react-chartjs-2 react-datepicker react-icons

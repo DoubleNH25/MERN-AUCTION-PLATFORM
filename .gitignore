@@ -130,3 +130,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 backend/config
+frontend/node_modules
